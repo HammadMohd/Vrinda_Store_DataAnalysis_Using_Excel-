@@ -14,9 +14,6 @@ This project involves cleaning, processing, and analyzing the Vrinda Store datas
 
 6- Age and Gender Relationship: Investigate the relationship between age and gender based on the number of orders.
 
-7- Sales Channel Performance: Identify which sales channel contributes the most to overall sales.
-
-8- Highest Selling Category: Determine the highest selling product category.
  
 # Goals:
 1- Data Cleaning: Ensure data accuracy by removing inconsistencies and handling missing values.
